@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Source+Sans+Pro:wght@300;400;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white text-gray-800 dark:text-gray-200;
+  }
+}
+
+@layer components {
+  .no-spinner {
+    -moz-appearance: textfield;
+  }
+
+  .no-spinner::-webkit-outer-spin-button,
+  .no-spinner::-webkit-inner-spin-button {
+    margin: 0;
+    -webkit-appearance: none;
+  }
+}
+
+body,
+html {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Playfair Display", serif;
+}
+
+.dark input::placeholder {
+  color: #9ca3af;
+}
+
+.dark input::-webkit-input-placeholder {
+  color: #9ca3af;
+}
+
+.dark input::-moz-placeholder {
+  color: #9ca3af;
+}
+
+.dark input:-ms-input-placeholder {
+  color: #9ca3af;
+}
+
+.dark input::-ms-input-placeholder {
+  color: #9ca3af;
+}
