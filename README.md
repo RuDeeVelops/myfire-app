@@ -4,9 +4,11 @@
 
 ### Live link: https://myfire.app
 
-<p align="center">
-    <img src='https://github.com/RuDeeVelops/myfire-app/blob/main/public/myfire_demo_RodolfoFanti.gif' alt="Myfire.app by Rodolfo Fanti" >
-</p>
+<div align="center">
+  <img src="https://myfire.app/openGraph_myfire_landscape.jpg" alt="Myfire.app by Rodolfo Fanti" width="1200" style="max-width:100%;">
+</div>
+
+
 
 ## About
 
