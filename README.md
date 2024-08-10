@@ -5,7 +5,7 @@
 ### Live link: https://myfire.app
 
 <p align="center">
-    <img src='/myfire_demo_RodolfoFanti.mp4' alt="Myfire.app by Rodolfo Fanti" style="max-width: 1000px;">
+    <img src='https://myfire.app/myfire_demo_RodolfoFanti.gif' alt="Myfire.app by Rodolfo Fanti" style="max-width: 1000px;">
 </p>
 
 ## About
