@@ -592,7 +592,7 @@ const App = () => {
             </p>
             <button
               onClick={() => setShowAbout(false)}
-              className="hover:bg-orangering-orange-500 mt-4 block w-full rounded bg-orange-500 px-4 py-2 text-white"
+              className="hover:bg-orange ring-orange-500 mt-4 block w-full rounded bg-orange-500 px-4 py-2 text-white"
             >
               Close
             </button>
